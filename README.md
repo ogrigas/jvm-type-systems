@@ -6,3 +6,5 @@ reveal.js based slides of my talk on JVM languages and their type systems
 - Scala
 - Groovy
 - Clojure
+
+[View slides](https://ogrigas.github.io/jvm-type-systems/)
